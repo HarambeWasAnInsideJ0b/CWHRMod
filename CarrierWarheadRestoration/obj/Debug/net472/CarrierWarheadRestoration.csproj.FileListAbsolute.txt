@@ -1,0 +1,16 @@
+E:\Torrenz\Projects\CarrierWarheadRestoration\bin\Debug\net472\CarrierWarheadRestoration.dll
+E:\Torrenz\Projects\CarrierWarheadRestoration\bin\Debug\net472\CarrierWarheadRestoration.pdb
+E:\Torrenz\Projects\CarrierWarheadRestoration\bin\Debug\net472\0Harmony.dll
+E:\Torrenz\Projects\CarrierWarheadRestoration\bin\Debug\net472\Assembly-CSharp.dll
+E:\Torrenz\Projects\CarrierWarheadRestoration\bin\Debug\net472\BepInEx.dll
+E:\Torrenz\Projects\CarrierWarheadRestoration\bin\Debug\net472\Mirage.dll
+E:\Torrenz\Projects\CarrierWarheadRestoration\bin\Debug\net472\UnityEngine.CoreModule.dll
+E:\Torrenz\Projects\CarrierWarheadRestoration\bin\Debug\net472\UnityEngine.dll
+E:\Torrenz\Projects\CarrierWarheadRestoration\obj\Debug\net472\CarrierWarheadRestoration.csproj.AssemblyReference.cache
+E:\Torrenz\Projects\CarrierWarheadRestoration\obj\Debug\net472\CarrierWarheadRestoration.GeneratedMSBuildEditorConfig.editorconfig
+E:\Torrenz\Projects\CarrierWarheadRestoration\obj\Debug\net472\CarrierWarheadRestoration.AssemblyInfoInputs.cache
+E:\Torrenz\Projects\CarrierWarheadRestoration\obj\Debug\net472\CarrierWarheadRestoration.AssemblyInfo.cs
+E:\Torrenz\Projects\CarrierWarheadRestoration\obj\Debug\net472\CarrierWarheadRestoration.csproj.CoreCompileInputs.cache
+E:\Torrenz\Projects\CarrierWarheadRestoration\obj\Debug\net472\CarrierW.6296FF55.Up2Date
+E:\Torrenz\Projects\CarrierWarheadRestoration\obj\Debug\net472\CarrierWarheadRestoration.dll
+E:\Torrenz\Projects\CarrierWarheadRestoration\obj\Debug\net472\CarrierWarheadRestoration.pdb
